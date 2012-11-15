@@ -1,0 +1,7 @@
+conf1:
+  adapter:  sqlite3
+  database: db/mydb1.sqlite3
+
+conf2:
+  adapter:  sqlite3
+  database: db/mydb2.sqlite3
